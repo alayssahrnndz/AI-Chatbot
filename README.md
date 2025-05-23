@@ -25,7 +25,7 @@ This chatbot was developed to improve the accessibility and efficiency of studen
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/askmatt-chatbot.git
+   git clone https://github.com/alayssahrnndz/askmatt-chatbot.git
    cd askmatt-chatbot
 
 2. Install dependencies
